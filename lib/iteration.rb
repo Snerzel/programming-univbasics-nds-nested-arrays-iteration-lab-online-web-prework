@@ -9,7 +9,7 @@ def join_ingredients(src)
   []
   row_index = 0
   while row_index < join_ingredients.count do
-    element_index = 0 
+    element_index = 0
     while element_index < join_ingredients[row_index].count do
       puts "I love" outer_array[outer_index][0] "and" outer_array[outer_index][1] "on my pizza"
       element_index += 1
